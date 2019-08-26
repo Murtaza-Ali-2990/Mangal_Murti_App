@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="heading_contact_us">SCHOOL FOR MENTALLY CHALLENGED CHILDREN</string>
+    <string name="phone_number">Phone Numbers</string>
+    <string name="desk">Desk :\u0020</string>
+    <string name="managing_trusty">Managing Trusty :\u0020</string>
+    <string name="principal">Principal :\u0020</string>
+    <string name="desk_phone_no">9825220027</string>
+    <string name="managing_trusty_phone_no">9825273064</string>
+    <string name="principal_phone_no">9879015440</string>
+    <string name="email_id">Email :\u0020</string>
+    <string name="email_id_value">mangalmurti_jnd@yahoo.com</string>
+</resources>

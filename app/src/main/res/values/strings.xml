@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Mangal_Murti_App</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_special_therapy">Special Therapy</string>
+    <string name="title_news_and_events">News and Events</string>
+    <string name="title_hostel_facilities">Hostel Facilities</string>
+    <string name="title_gallery">Gallery</string>
+    <string name="title_other_activities">Activities</string>
+    <string name="title_trusties">Trusties</string>
+    <string name="title_donate_us">Donate Us</string>
+    <string name="title_contact_us">Contact Us</string>
+</resources>
